@@ -1,0 +1,20 @@
+{
+  "name": "hydra-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hydra": "hydra-cli"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hydra-express": "^1.6.6"
+  },
+  "devDependencies": {
+    "hydra-cli": "^1.5.5"
+  }
+}

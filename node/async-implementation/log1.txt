@@ -1,0 +1,6 @@
+ [*] Waiting for messages in amq.gen-xZsZs1VNLiTQJW-qxr7-xA. To exit press CTRL+C
+ [x] Received new...
+ [x] Received new...1
+ [x] Received new...12
+ [x] Received new...123
+ [x] Received new...1234

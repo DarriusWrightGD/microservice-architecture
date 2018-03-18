@@ -1,0 +1,14 @@
+{
+    "hydra": {
+      "serviceName": "hello",
+      "serviceIP": "",
+      "servicePort": 0,
+      "serviceType": "",
+      "serviceDescription": "",
+      "redis": {
+        "url": "hydra-redis",
+        "port": 6379,
+        "db": 15
+      }
+    }
+  }
